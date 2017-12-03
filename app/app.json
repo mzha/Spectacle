@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "yhacks2017",
+    "description": "Helper for the developmentally-disabled",
+    "slug": "yhacks2017",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^23.0.0",
+    "react": "16.0.0",
+    "react-cloud-vision-api": "^0.3.0",
+    "react-file-base64": "^1.0.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz",
+    "react-native-popup-dialog": "^0.10.43",
+    "react-native-tab-view": "0.0.72",
+    "request": "^2.83.0"
+  }
+}
